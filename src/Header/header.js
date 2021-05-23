@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <div className="col-md-12 text-center border-bottom-new mt-4 border-dark">
         <h5>
-            DEMO - 3: STRING COMPARE WITH PRE-SET STRING / COPY OF BJ 2
+            DEMO - 3
         </h5>
       </div>
     </div>
